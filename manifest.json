@@ -1,0 +1,45 @@
+{
+    "name": "#ProgramacionV",
+    "short_name": "#PWA",
+    "description": "holabuenas :)",
+    "background_color": "#f0a00b",
+    "theme_color": "#fff",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es",
+    "icons": [
+     
+      {
+        "src": "./img/icono_512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icono_256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icono_128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icono_64.png",
+        "sizes": "64x64",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icono_32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icono_24.png",
+        "sizes": "24x24",
+        "type": "image/png"
+      }
+    ]
+  }
